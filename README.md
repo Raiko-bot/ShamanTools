@@ -10,5 +10,6 @@ La tienda de materiales "Shaman Tools" enfrenta la necesidad de gestionar su inv
 La solución propuesta es un sistema de inventario con dos tipos de usuarios, cada uno con roles específicos:
 
 Administradores (admin): tienen permisos para registrar usuarios, gestionar productos en el inventario (agregar, actualizar, consultar y comprar productos) y ver un resumen de las ventas.
+
 Vendedores: pueden consultar productos y realizar ventas, lo cual reduce el inventario según la cantidad vendida.
 
